@@ -130,10 +130,8 @@ The trained model and report are included if they have been saved and added to t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cifar10-cnn-image-classification.git
+git clone https://github.com/Chida-46/cifar10-cnn-image-classification.git
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Navigate to the project directory
 
